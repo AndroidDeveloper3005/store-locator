@@ -1,0 +1,6 @@
+Password: #store-locator@2018
+Alias: store-locator
+
+release MD5 and sha1
+	 MD5:  1C:83:36:66:F7:7F:BE:9A:FE:92:C6:EF:B1:1D:3A:28
+	 SHA1: B8:DF:55:11:6B:64:3B:B3:19:41:F6:4E:7C:F4:2A:88:7B:15:8B:C3
